@@ -36,6 +36,3 @@ This project analyzes an extended dataset of annual crop production across India
 **Author:** Nupur Singh  
 [LinkedIn](https://www.linkedin.com/in/nupur-singh-403a8718)
 
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
